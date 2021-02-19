@@ -1,0 +1,14 @@
+{
+  "name": "testes-dynamodb",
+  "version": "1.0.0",
+  "description": "Testes Inicias com o DynamoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Lima",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.847.0"
+  }
+}
